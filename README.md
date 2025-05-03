@@ -1,3 +1,10 @@
+# Sales Dashboard
+
+**A Power BI report analyzing 2019 sales and profit performance across cities, products, customers, and channels.**
+
+---
+
+
 ## 📝 Data
 
 - **`Sales Analysis Report.xlsx`**  
